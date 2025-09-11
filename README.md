@@ -47,14 +47,11 @@
 
 ### 🌷 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/soumyadippp" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-sinha-699330383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:soumyadipdolai630@gmail.com" target="_blank">
+  <a href="mailto:aditisinha.@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/soumyadipdolai/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
